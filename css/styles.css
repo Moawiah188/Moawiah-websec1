@@ -163,8 +163,9 @@ td a:hover {
   border: 2px solid #3859FF;
   padding: 1.5rem;
   max-width: 700px;
-  width: 100%;
+  width: 90%;
   margin-left: auto;
+  overflow: visible;
 }
 
 .collab-box h3 {
